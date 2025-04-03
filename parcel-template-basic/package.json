@@ -2,8 +2,8 @@
   "name": "parcel-template-basic",
   "version": "1.0.0",
   "scripts": {
-    "dev" : "parcel index.html",
-    "build" : "parcel build index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
